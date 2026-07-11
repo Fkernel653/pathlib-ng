@@ -1,6 +1,6 @@
 # pathlib-ng — Enhanced Path implementation
 
-[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://python.org)
 [![PyPI](https://img.shields.io/pypi/v/pathlib-ng.svg)](https://pypi.org/project/pathlib-ng)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS%20%7C%20windows-lightgrey)]()
@@ -331,7 +331,7 @@ def process_logs(log_dir):
 
 ## ⚙️ Requirements
 
-- **Python 3.10+** — Uses modern Python features
+- **Python 3.6+** — Uses modern Python features
 - **No external dependencies** — Pure Python with standard library only
 
 ---

@@ -4,10 +4,10 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pathlib-ng"
-version = "0.1.0"
+version = "0.1.1"
 description = "A lightweight, drop-in replacement for `pathlib.Path` with enhanced features, better error messages, and zero external dependencies"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.6"
 license = "MIT"
 authors = [
     {name = "Fkernel653"}
