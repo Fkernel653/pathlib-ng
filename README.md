@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://python.org)
 [![PyPI](https://img.shields.io/pypi/v/pathlib-ng.svg)](https://pypi.org/project/pathlib-ng)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS%20%7C%20windows-lightgrey)]()
 [![Ruff](https://img.shields.io/badge/code%20style-ruff-261230?logo=ruff&logoColor=white)](https://docs.astral.sh/ruff)
 
@@ -259,7 +259,7 @@ pathlib-ng/
 ├── pathlib_ng/
 │   ├── __init__.py      # Package exports
 │   └── path.py          # Path class implementation
-├── LICENSE              # MIT License
+├── LICENSE              # GPLv3 License
 ├── pyproject.toml       # Project metadata
 └── README.md            # This file
 ```
@@ -338,7 +338,7 @@ def process_logs(log_dir):
 
 ## 📄 License
 
-MIT License — Use freely in open source and commercial projects.
+GPLv3 License — Use freely in open source and commercial projects.
 
 **Author:** [Fkernel653](https://github.com/Fkernel653)
 
